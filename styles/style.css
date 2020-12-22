@@ -299,6 +299,7 @@
   min-height: 350px;
   color: #fff;
   background-color: #1f1f1f;
+  display: flex;
 }
 
 .footer__columns {
@@ -313,10 +314,10 @@
 .footer__column {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
 }
 
 .footer__column_content_copyright {
+  justify-content: space-between;
   flex-basis: 711px;
 }
 
