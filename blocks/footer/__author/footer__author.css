@@ -6,11 +6,10 @@
   font-weight: normal;
   color: #fff;
   text-decoration: none;
-  opacity: .7;
+  opacity: 1;
+  transition: all 0.2s ease-out;
 }
 
 .footer__author:hover {
-  text-decoration: underline;
-  opacity: 1;
-  transition: all 0.2s ease-out;
+  opacity: .7;
 }

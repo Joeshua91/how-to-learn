@@ -2,10 +2,10 @@
   width: 183px;
   background-size: cover;
   z-index: 3;
-  opacity: .5;
+  opacity: 1;
+  transition: all 0.2s ease-out;
 }
 
 .logo:hover {
-  opacity: 1;
-  transition: all 0.2s ease-out;
+  opacity: .5;
 }

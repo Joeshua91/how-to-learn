@@ -3,11 +3,10 @@
   text-decoration: none;
   font-size: 18px;
   font-weight: normal;
-  opacity: .7;
+  opacity: 1;
+  transition: all 0.2s ease-out;
 }
 
 .header__link:hover {
-  text-decoration: underline;
-  opacity: 1;
-  transition: all 0.2s ease-out;
+  opacity: .7;
 }
