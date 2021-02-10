@@ -23,3 +23,6 @@ git clone https://github.com/Joeshua91/how-to-learn.git
 ## Планы по доработке проекта:
 * добавить вендорные префиксы;
 * добавить форму для комментариев.
+
+------
+[проект на gh-pages](https://joeshua91.github.io/how-to-learn/index.html)
