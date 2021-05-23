@@ -25,4 +25,4 @@ git clone https://github.com/Joeshua91/how-to-learn.git
 * добавить форму для комментариев.
 
 ------
-[проект на gh-pages](https://joeshua91.github.io/how-to-learn/index.html)
+[проект на gh-pages](https://mkdir-dev.github.io/how-to-learn/)
